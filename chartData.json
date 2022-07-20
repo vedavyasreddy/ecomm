@@ -1,0 +1,94 @@
+[
+    {
+      "state": "WA",
+      "number_people": "JUST YOU",
+      "type_people": "Children (under age 19)",
+      "language": "en",
+      "chartResults": [
+        {
+          "income": "$6,912",
+          "premium": "No monthly premium",
+          "copay": ""
+        },
+        {
+          "income": "$7,748",
+          "premium": "$0 to $15/child per month; Max of $27 to $45 per family",
+          "copay": ""
+        },
+        {
+          "income": "$12,397",
+          "premium": "$30 to $60/child per month; Max of $90 to $180/family per month",
+          "copay": ""
+        }
+      ]
+    },
+    {
+      "state": "MD",
+      "number_people": "YOU + 1",
+      "type_people": "Adults (age 19 to 64)",
+      "language": "en",
+      "chartResults": [
+        {
+          "income": "$2,106",
+          "premium": "No monthly premium",
+          "copay": ""
+        },
+        {
+          "income": "$7,748",
+          "premium": "$0 to $15/child per month; Max of $27 to $45 per family",
+          "copay": ""
+        },
+        {
+          "income": "$12,397",
+          "premium": "$30 to $60/child per month; Max of $90 to $180/family per month",
+          "copay": ""
+        }
+      ]
+    },
+    {
+      "state": "MD",
+      "number_people": "YOU + 2",
+      "type_people": "Adults (age 19 to 64)",
+      "language": "en",
+      "chartResults": [
+        {
+          "income": "$2,648",
+          "premium": "No monthly premium",
+          "copay": ""
+        },
+        {
+          "income": "$7,748",
+          "premium": "$0 to $15/child per month; Max of $27 to $45 per family",
+          "copay": ""
+        },
+        {
+          "income": "$12,397",
+          "premium": "$30 to $60/child per month; Max of $90 to $180/family per month",
+          "copay": ""
+        }
+      ]
+    },
+    {
+      "state": "MO",
+      "number_people": "YOU + 1",
+      "type_people": "Adults (age 19 to 64)",
+      "language": "en",
+      "chartResults": [
+        {
+          "income": "$2,648",
+          "premium": "No monthly premium",
+          "copay": ""
+        },
+        {
+          "income": "$7,748",
+          "premium": "$0 to $15/child per month; Max of $27 to $45 per family",
+          "copay": ""
+        },
+        {
+          "income": "$12,397",
+          "premium": "$30 to $60/child per month; Max of $90 to $180/family per month",
+          "copay": ""
+        }
+      ]
+    }
+  ]
